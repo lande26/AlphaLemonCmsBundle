@@ -15,7 +15,7 @@ Requirements
 - PHP 5.3+
 - Symfony 2.3.*+
 - Propel 1.6+
-
+kartiklande
 
 Install AlphaLemon CMS
 ----------------------
